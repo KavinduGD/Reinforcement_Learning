@@ -3,6 +3,7 @@ wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.30/bin/apache-tomcat-10.0.3
 
 tar -xvzf apache-tomcat-10.0.30.tar.gz
 
+wget https://downloads.apache.org/tomcat/tomcat-10/v10.1.11/bin/apache-tomcat-10.1.11.tar.gz
 
 
 

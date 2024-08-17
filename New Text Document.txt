@@ -1,3 +1,14 @@
+
+wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.30/bin/apache-tomcat-10.0.30.tar.gz
+
+tar -xvzf apache-tomcat-10.0.30.tar.gz
+
+
+
+
+
+
+
 SSD – Lab 4 – CSRF
 
 For this lab, you may need IntelliJ idea IDE. You may download the evaluation version from here. You may use the Ubuntu VM from the earlier lab for this or you may use your own Windows or Linux PC. 
